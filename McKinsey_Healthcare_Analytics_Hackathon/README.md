@@ -10,3 +10,5 @@ Over the last few years, the Client has captured several health, demographic and
  
 
 The Client wants you to predict the probability of stroke happening to their patients. This will help doctors take proactive health measures for these patients.
+
+https://datahack.analyticsvidhya.com/contest/mckinsey-analytics-online-hackathon/
